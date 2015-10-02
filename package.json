@@ -1,0 +1,14 @@
+{
+  "name": "ats_db_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_fake_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Forsyth",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^3.0.1"
+  }
+}
